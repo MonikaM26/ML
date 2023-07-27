@@ -1,6 +1,6 @@
 # ML
 
-Simple projects covering the theme of Machine learning such as:
+Simple scripts covering the theme of Machine learning such as:
  
 - Linear Regression
 
