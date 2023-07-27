@@ -2,7 +2,7 @@
 
 Simple projects covering the theme of Machine learning such as:
  
--Linear Regression
+- Linear Regression
 
 - Logistic Regression
 
